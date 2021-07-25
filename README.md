@@ -28,3 +28,6 @@ Optionnel :
 python3 main.py -f FICHIER_NON_TRAITER -e NOM_FICHIER_CSV_EQUIPMENT -o NOM_FICHIER_CREE
 ``````
 
+**INFO**
+
+Le fichier test1.py est, comme le nom l'indique, un fichier test. Ca ne sert a rien de l'utiliser et vous pouvez le supprimer :-)
